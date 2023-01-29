@@ -9,6 +9,10 @@ In the month of August 2019 the number of rides recorded by Citi Bike is 2,344,2
 
 ![image](https://user-images.githubusercontent.com/111200771/215303988-e5417f0e-7273-4741-b83d-4197a63c62f4.png)
 
+The peak hours of use during any given day for Citi Bike are between the hours of 8am to 10am and again between 2pm and 7pm as seen in the graphic below that shows the breakdown of start times against the number of trips. The other information gathered from the following image is the window in which it is best to do maintenance on bikes, with that window being between the early morning hours of 1am to 5am, as seen by the low number of trip started during those hours. 
+
+![image](https://user-images.githubusercontent.com/111200771/215304065-83251618-4908-41b7-bcbb-de05b2833cf3.png)
+
 
 The customer demograhic for CitiBike is predominantly made of up annual subscribers and are males, as seen in the following pie charts. 
 
