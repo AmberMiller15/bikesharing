@@ -34,8 +34,9 @@ Bike utilizaiton is well distributed among the owned bikes, as seen in the follo
 
 ![image](https://user-images.githubusercontent.com/111200771/215303814-1d1c0dd2-7a69-434a-bcea-ecc8d04c4718.png)
 
+## Summary: 
 
-
+The results that can concluded from these visualizaitons is that Citi Bike sharing is profitable and a sustainable company in a city like New York City. If advertised correctly and the locations are picked carefully and correctly bike sharing could be profitable and sustainable in a city like Des Moines, IA. In order to implement bike sharing in other cities, further research would have to be done, like where the areas of highest tourist and foot traffic are within the city, to be able to pinpoint where bike stations should be set up, as well as an analysis of the weather in each location when the bike sharing service are to be implemented to better visualize the weather related maintenance to be expected. The last bit of research teh at 
 
 ## Links to Tableau Dashboards
 https://public.tableau.com/views/NYC_Tripduration_data/NYCTripdurationStory?:language=en-US&:display_count=n&:origin=viz_share_link
