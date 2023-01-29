@@ -17,7 +17,7 @@ The following customer breakdown shows that of the customers the predominant mal
 
 The top starting and ending locations are around the same area, and are around heavily trafficed tourist areas. As seen in the following images with the red representing the areas with the highest checkout and return rates. The areas with the lower start and end rates are visualized in blue and green respectively.
 
-![image](https://user-images.githubusercontent.com/111200771/215303875-b8d5a000-c609-4f68-ab63-dee73ad01ac5.png)
+![image](https://user-images.githubusercontent.com/111200771/215303909-e98591b0-31ea-4b0c-8557-f7d9fad749f5.png)
 ![image](https://user-images.githubusercontent.com/111200771/215303887-6840c9dc-ff13-4c43-a54c-d0742da6314b.png)
 
 
