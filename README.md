@@ -17,8 +17,8 @@ The following customer breakdown shows that of the customers the predominant mal
 
 The top starting and ending locations are around the same area, and are around heavily trafficed tourist areas. As seen in the following images with the red representing the areas with the highest checkout and return rates. The areas with the lower start and end rates are visualized in blue and green respectively.
 
-![image](https://user-images.githubusercontent.com/111200771/215303663-eb7b7976-33b4-4209-8ae3-9e8697916b69.png)
-![image](https://user-images.githubusercontent.com/111200771/215303690-05c49d51-543e-4a8c-9b8b-bff92fe1f28e.png)
+![image](https://user-images.githubusercontent.com/111200771/215303663-eb7b7976-33b4-4209-8ae3-9e8697916b69.png) ![image](https://user-images.githubusercontent.com/111200771/215303842-07d3be60-93fe-4ac4-90ea-9c108aee4864.png)
+
 
 Bike utilizaiton is well distributed among the owned bikes, as seen in the following image. The bikes with the higher utilizaiton are shown in the warmer colors with red being the most utilized and blue being the least utilized. 
 
