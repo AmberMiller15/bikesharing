@@ -5,7 +5,11 @@ The purpose of this project was to analyze data from a bike sharing service in N
 ## Results : 
 Data analyzed included starting locations for bike rentals, average duration by age, peak hours of usage, and customer demographic.
 
-### Customer Demographic
+In the month of August 2019 the number of rides recorded by Citi Bike is 2,344,244 as seen in the graphic below. 
+
+![image](https://user-images.githubusercontent.com/111200771/215303988-e5417f0e-7273-4741-b83d-4197a63c62f4.png)
+
+
 The customer demograhic for CitiBike is predominantly made of up annual subscribers and are males, as seen in the following pie charts. 
 
 ![image](https://user-images.githubusercontent.com/111200771/215303388-30c0c573-fa54-4a3f-9b0a-bb739efdb5c5.png)
